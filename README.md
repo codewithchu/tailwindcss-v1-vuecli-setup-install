@@ -1,24 +1,28 @@
-# vuecli-tw
+# Setup VueCLI & Tailwindcss v1
 
-## Project setup
+Source Code for Setup and Install Vue CLI with Tailwindcss v1.0 on <a href="https://www.youtube.com/channel/UCSyosm-WcUPT4LnUIIdqSCw" title="Subscribe to CodeWithChu Youtube Channel" target="_blank">CodeWithChu</a> YouTube Channel.
+
+## Install
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## NPM Scripts
 
-### Compiles and minifies for production
-```
+```sh
+#serve script
+npm run serve
+
+#build script
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## connect with @codewithchu
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Website](https://www.arthurchu.ca 'Web Development Tutorials, Tips & Tricks | CodeWithChu Website')
+- [YouTube](https://www.youtube.com/channel/UCSyosm-WcUPT4LnUIIdqSCw 'CodeWithChu Youtube Channel')
+- [Instagram](https://www.instagram.com/codewithchu/ 'Follow CodeWithChu on Instagram')
+- [Twitter](https://twitter.com/codewithchu 'Follow CodeWithChu on Twitter')
+- [Facebook](https://www.facebook.com/codewithchu 'Like CodeWithChu on Facebook')
+- [Codepen](https://codepen.io/codewithchu 'Follow CodeWithChu on Codepen')
